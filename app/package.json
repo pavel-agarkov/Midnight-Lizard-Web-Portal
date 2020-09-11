@@ -88,7 +88,7 @@
     "ngx-infinite-scroll": "7.2.0",
     "ngx-pipes": "2.5.1",
     "ngx-script-loader": "1.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "openid-client": "2.5.0",
     "rxjs": "6.5.2",
     "zone.js": "0.9.1"
